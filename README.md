@@ -2,6 +2,9 @@
 
 Demo link: [DEMO](https://nextjs-car-dealer-app.vercel.app/)
 
+![screen](https://github.com/user-attachments/assets/6810d7e5-80be-4540-b568-d3766e27a386)
+
+
 # Technologies used
 
 - [React 19.0.0](https://reactjs.org/)
